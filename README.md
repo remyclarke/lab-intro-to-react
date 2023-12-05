@@ -20,12 +20,6 @@ Edit multiple JavaScript files in this lab as you get the hang of creating and u
 
 1. Open up the repository in VSCode. Follow the instructions below to complete the Lab.
 
-1. Ask your instructor if you will deploy this application to Netlify. If so, wait for the lesson on deployment to deploy and add the link to your netlify site below:
-
-[MY LIVE SITE URL]()
-
-1. If you won't deploy this site, submit the URL to this GitHub repository.
-
 ## Instructions
 
 You will be building a static React Application that will show some blog posts and user information. It should look similar to the image below. Note: this view has been lightly styled to help provide clarity between components, you do not need to style this app the same way.
