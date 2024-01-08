@@ -1,3 +1,28 @@
+.user-profile, .post, .contact, .contact-list {
+  border: 1px solid #ccc;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+
+.user-profile .avatar-placeholder,
+.contact .avatar-placeholder {
+  width: 60px;
+  height: 60px;
+  background-color: #ddd;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.user-info, .contact-info {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 1rem;
+}
+
+.posts {
+  display: flex;
+  flex-direction: column;
+}
 body {
   font-family: sans-serif;
   margin: 0;
